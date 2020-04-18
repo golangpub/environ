@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/gopub/conv"
-	"github.com/gopub/types"
+	"github.com/golangpub/conv"
+	"github.com/golangpub/types"
 )
 
 func IntArg(index int) (int, error) {

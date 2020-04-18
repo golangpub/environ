@@ -6,8 +6,8 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/gopub/conv"
-	"github.com/gopub/types"
+	"github.com/golangpub/conv"
+	"github.com/golangpub/types"
 	"github.com/spf13/cast"
 )
 
